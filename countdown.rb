@@ -1,6 +1,3 @@
-#write your code here
-
-
 def countdown(number)
    number = 13
   while number > 0

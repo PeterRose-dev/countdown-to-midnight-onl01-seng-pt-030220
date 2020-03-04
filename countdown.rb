@@ -1,3 +1,4 @@
+number = 11
 def countdown(number)
   
   while number > 0
